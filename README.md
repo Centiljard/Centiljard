@@ -1,11 +1,8 @@
-# Me
+## I and my projects.
 
-## Projects
-### Skola77
-Feel free to contribute to the seating plan tool from Sweden: [Skola77](https://github.com/KillerRabbitAos/skola77-2.5)
+### [Skola77](https://github.com/KillerRabbitAos/skola77-2.5)
+Feel free to contribute to this seating plan tool from Sweden.
 
-### Swelib
-I am the cofounder of Koha service provider [Swelib](https://swelib.com).
+### Cofounder of Koha service provider [SweLib](https://swelib.com).
 
-## How to reach me
-By mail: artur.norrby@gmail.com
+### Reach me by [artur.norrby@gmail.com](artur.norrby@gmail.com)
