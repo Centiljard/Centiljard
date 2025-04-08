@@ -4,8 +4,7 @@
 
 ### [Skola77](https://github.com/KillerRabbitAos/skola77-2.5)
 
-Feel free to contribute to this seating plan tool from Sweden.
-
+Working on the third release. [Preview here.](https://skola77.helenelund.org)
 ### Reach me by [artur.norrby@gmail.com](artur.norrby@gmail.com)
 
 
