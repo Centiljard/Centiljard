@@ -1,4 +1,4 @@
-## I and my projects
+## me
 
 ### Cofounder of Koha service provider [SweLib](https://swelib.com).
 
